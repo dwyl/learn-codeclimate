@@ -17,7 +17,9 @@ https://codeclimate.com
 
 - Setting up JS Test Coverage:
 http://docs.codeclimate.com/article/219-setting-up-test-coverage
-
+- https://github.com/codeclimate/javascript-test-reporter
+- Open source tools used by CodeClimate:
+http://docs.codeclimate.com/article/160-open-source-tools-used-by-code-climate
 
 ## Paying for it
 
@@ -32,6 +34,11 @@ $99 per month is "expensive"... But I suggest you
 
 ![CodeClimate Pricing](http://i.imgur.com/TmAaGGs.png)
 
-If you're still having trouble convincing your "boss",
-***try it*** for your personal (open source) GitHub projects
-learn what code quality looks like
+If you're still having trouble convincing your "boss"
+that $99 per month is *cheap* for a "second pair of eyes" on your code,  
+***try it***  (*free*) for your personal (open source) GitHub projects
+learn what code quality looks like and then try again.
+
+## Alternatives to CodeCliamte
+
+- http://laravel.io/forum/05-16-2014-code-climate-vs-scrutinizer-vs-sensiolabsinsight
