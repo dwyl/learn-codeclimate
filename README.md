@@ -39,6 +39,6 @@ that $99 per month is *cheap* for a "second pair of eyes" on your code,
 ***try it***  (*free*) for your personal (open source) GitHub projects
 learn what code quality looks like and then try again.
 
-## Alternatives to CodeCliamte
+## Alternatives to CodeClimate
 
 - http://laravel.io/forum/05-16-2014-code-climate-vs-scrutinizer-vs-sensiolabsinsight
