@@ -21,7 +21,7 @@ http://docs.codeclimate.com/article/219-setting-up-test-coverage
 - Open source tools used by CodeClimate:
 http://docs.codeclimate.com/article/160-open-source-tools-used-by-code-climate
 
-## Paying for it
+## Paying for it
 
 As with all great services, there is a
 [price](https://codeclimate.com/pricing) to pay for
